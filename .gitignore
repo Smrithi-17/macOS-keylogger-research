@@ -1,0 +1,4 @@
+keylogger_env/
+*.log
+__pycache__/
+.DS_Store
